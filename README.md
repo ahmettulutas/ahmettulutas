@@ -1,7 +1,7 @@
 
 # Hi folks, my name is Ahmet. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"  height="23px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
-<iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W"></a>
+<img src="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ##  Front-end Developer 👨🏼‍💻 Arduino Lover. Junior Barstarzz.
 - 🌱 I am currently learning Redux and Typescript while also improving my React.js skills. 
