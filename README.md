@@ -1,23 +1,38 @@
 
 # Hi folks, my name is Ahmet. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"  height="23px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
-<iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
 ##  Front-end Developer 👨🏼‍💻 Arduino Lover. Junior Barstarzz.
 - 🌱 I am currently learning Redux and Typescript while also improving my React.js skills. 
 - I am ready to dedicate myself to be able to land my dream job which is frontend development. By doing so, I will be able to pursue my career while learning new skills everyday.
 - I am currently a React.js student at Patika.dev Bootcamp
-- ⚡ Fun fact: I am actually an English Teacher who loves learning frontend development trends.
+- ⚡ Fun fact: I used to be an English Teacher.
 
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Let's get in touch
 
 
 <a target="_blank" href="mailto:ahmetulutas93@gmail.com">  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ahmetulutas" width="40" height="40"/> </a>
-  <a href="https://www.linkedin.com/in/ahmet-ulutas/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetulutas" width="35" height="45"/> </a> 
-  <a href="https://github.com/ahmettulutas" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="ahmetulutas" width="40" height="45" /> </a> 
-<img src="https://komarev.com/ghpvc/?username=ahmettulutas" alt="ahmetulutas" width="130" height="25" />
+  <a href="https://www.linkedin.com/in/ahmet-ulutas/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetulutas" width="40" height="40"/> </a> 
+  <a href="https://github.com/ahmettulutas" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="ahmetulutas" width="40" height="40" /> </a> 
+
  
+
+
+
 
 
 
@@ -32,13 +47,12 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 </p>
-
+<br/>
+<br/>
+<br/>
+<br/>
  
-##
+<img align="right" src="https://komarev.com/ghpvc/?username=ahmettulutas" alt="ahmetulutas" width="130" height="25" />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmettulutas&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="ahmetulutas" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ahmettulutas&show_icons=true&theme=radical" alt="ahmetulutas" width="53%" /></p>
-
-[linkedin]: https://www.linkedin.com/in/ahmet-ulutas/
-[gmail]: mailto:ahmetulutas93@gmail.com
-[github]: https://github.com/ahmettulutas
 
