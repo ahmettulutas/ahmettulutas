@@ -3,10 +3,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
-##  Front-end Developer 👨🏼‍💻 Arduino Lover. Junior Barstarzz.
+##  Front-end Developer 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
 - 🌱 I am currently learning Redux and Typescript while also improving my React.js skills. 
-- I am ready to dedicate myself to be able to land my dream job which is frontend development. By doing so, I will be able to pursue my career while learning new skills everyday.
-- I am currently a React.js student at Patika.dev Bootcamp
+- 🌱I am ready to dedicate myself to be able to land my dream job which is frontend development. By doing so, I will be able to pursue my career while learning new skills everyday.
+- 🌱I am currently a React.js student at Patika.dev Bootcamp
 - ⚡ Fun fact: I used to be an English Teacher.
 
 
