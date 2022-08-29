@@ -5,6 +5,7 @@
 
 ##  Front-end Developer in online payment systems and banking industry. 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
 - 🌱 After working as a teacher of ELT (English Language Training) for three years, I decided to reconsider my career since I have always been curious about hardwares and softwares. Then, I started to study programming which made me admire it soon. I took some online courses, attended frontend development bootcamps. At the moment, I am working in a software company which offers banking solutions as a React.js Developer. I am in charge of the module, which offers lump sum payment and reporting.
+- 🌱 I am really proud of myself cause I didn't stop following my dream and achieved to land my first job. However, I am aware of the fact that I'm at the very beginning of my career and got a lot to learn and miles to go. To have a lot of things to learn, always having chance to produce and improve is what I really love in life so I believe I'm well-armored for any changes and improvements in the industry. 
 
 - 🌱 I am currently learning Redux and Typescript (and MERN stack if I have some spare time) while also improving my React.js skills. 
 
