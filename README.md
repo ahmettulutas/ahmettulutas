@@ -3,11 +3,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
-##  Front-end Developer 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
-- 🌱 I am currently learning Redux and Typescript while also improving my React.js skills. 
-- 🌱I am ready to dedicate myself to be able to land my dream job which is frontend development. By doing so, I will be able to pursue my career while learning new skills everyday.
-- 🌱I am currently a React.js student at Patika.dev Bootcamp
-- ⚡ Fun fact: I used to be an English Teacher.
+##  Front-end Developer in online payment systems and banking industry. 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
+- 🌱 After working as a teacher of ELT (English Language Training) for three years, I decided to reconsider my career since I have always been curious about hardwares and softwares. Then, I started to study programming which made me admire it soon. I took some online courses, attended frontend development bootcamps. At the moment, I am working in a software company which offers banking solutions as a React.js Developer. I am in charge of the module, which offers lump sum payment and reporting.
+
+- 🌱 I am currently learning Redux and Typescript (and MERN stack if I have some spare time) while also improving my React.js skills. 
+
 
 
 
