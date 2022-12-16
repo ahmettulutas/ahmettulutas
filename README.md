@@ -4,10 +4,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
 ##  Front-end Developer in online payment systems and banking industry. 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
-- 🌱 At the moment, I am working in a software company which offers banking solutions as a React.js Developer. I am in charge of the module, which offers lump sum payment and reporting.
+- 🌱 At the moment, I am working in a fintech company as a React.js Developer.
 - 🌱 I am really proud of myself cause I didn't stop following my dream and achieved to land my first job. However, I am aware of the fact that I'm at the very beginning of my career and got a lot to learn and miles to go. To have a lot of things to learn, always having chance to produce and improve is what I really love in life so I believe I'm well-armored for any changes and improvements in the industry. 
 
-- 🌱 I am currently learning Typescript and MERN stack while also improving my React.js skills. 
+- 🌱 I am currently learning Typescript and Next.js and MERN stack while also improving my React.js skills. 
 
 
 
