@@ -47,7 +47,7 @@
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="[https://colab.research.google.com/](https://lesscss.org/)" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
+<code><a href="https://lesscss.org" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg"></a></code>
 <br/>
 <br/>
 <br/>
