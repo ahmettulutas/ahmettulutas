@@ -3,12 +3,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
-##  Front-end Developer in online payment systems and banking industry. 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:.
+##  Front-end Developer in online payment systems and banking industry. 👨🏼‍💻 Arduino Lover. Junior Barstarzz :muscle:
 - 🌱 At the moment, I am working in a fintech company as a React.js Developer.
-- 🌱 I am really proud of myself cause I didn't stop following my dream and achieved to land my first job. However, I am aware of the fact that I'm at the very beginning of my career and got a lot to learn and miles to go. To have a lot of things to learn, always having chance to produce and improve is what I really love in life so I believe I'm well-armored for any changes and improvements in the industry. 
-
-- 🌱 I am currently learning Typescript and Next.js and MERN stack while also improving my React.js skills. 
-
+- 🌱 Although my current job has kept me busy and I haven't had any cool project to display here on my github, I have been actively working to continue developing my skills as a frontend developer. I have a strong foundation in technologies such as React, Next.js, Gatsby.js and Redux, as well as experience with TypeScript. In my free time, I have been working on personal projects and exploring new technologies to stay up to date in the field. I have also taken online courses and used other resources to further my learning. I am constantly looking for ways to improve and expand my skillset, and I am always open to new opportunities to work on interesting projects.
 
 
 
